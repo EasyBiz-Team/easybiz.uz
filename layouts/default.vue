@@ -79,7 +79,7 @@ const closesidebar = () => {
 
 .aside {
     height: 100vh;
-    width: 20rem;
+    width: 30rem;
     position: fixed;
     z-index: 1;
     left: 0;

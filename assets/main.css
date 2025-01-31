@@ -38,11 +38,7 @@ ul {
   margin-top: 7rem;
   height: calc(100vh - 10rem);
 }
-@media (max-width: 1440px) {
-  .review{
-    max-width: calc(100% - 20rem);
-  }
-}
+
 @media (max-width: 1024px) {
   .review{
     max-width: 100%;
